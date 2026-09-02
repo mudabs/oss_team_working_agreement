@@ -1,0 +1,5 @@
+# Keep this repository limited to the agreement PDF and these instructions.
+*
+!.gitignore
+!README.md
+!Health_and_Wellness_Team_Working_Agreement.pdf
